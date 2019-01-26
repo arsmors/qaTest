@@ -14,7 +14,6 @@ import static org.junit.Assert.assertEquals;
 public class AuthenticateTestSteps {
     HttpURLConnection connection;
 
-
     @Given("^I authenticate at homepage using$")
     public void iAuthenticateAtHomepageAndUsing(Map<String, String> data) throws Throwable {
         URL url = new URL("https://postman-echo.com/basic-auth");
@@ -26,7 +25,6 @@ public class AuthenticateTestSteps {
         connection.setDoOutput(true);
         connection.setRequestProperty("Authorization", "Basic " + authEncoded);
     }
-
 
     @Then("^I get response$")
     public void iGetResponse(Map<String, String> data) throws Throwable {

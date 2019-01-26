@@ -72,6 +72,14 @@
             <version>5.0.8.RELEASE</version>
         </dependency>
 
+        <!-- https://mvnrepository.com/artifact/com.assertthat/selenium-shutterbug -->
+        <dependency>
+            <groupId>com.assertthat</groupId>
+            <artifactId>selenium-shutterbug</artifactId>
+            <version>0.9</version>
+        </dependency>
+
+
 
     </dependencies>
 </project>
