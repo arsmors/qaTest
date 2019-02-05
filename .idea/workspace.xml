@@ -2,9 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="041482f9-793f-4458-ae4b-936a08e6a3a8" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/screenshots/Actual.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/screenshots/test.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/screenshots/test.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/screenshots/Actual.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/screenshots/test.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/testDefs/ImageTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/testDefs/ImageTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/testDefs/ImageTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/testDefs/ImageTest.class" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -32,8 +35,8 @@
           <entry key="fxml" value="1" />
           <entry key="java" value="15" />
           <entry key="jpeg" value="1" />
-          <entry key="jpg" value="6" />
-          <entry key="png" value="17" />
+          <entry key="jpg" value="7" />
+          <entry key="png" value="18" />
           <entry key="xml" value="2" />
         </counts>
       </usages-collector>
@@ -41,7 +44,7 @@
         <counts>
           <entry key="CLASS" value="10" />
           <entry key="Cucumber" value="2" />
-          <entry key="Image" value="24" />
+          <entry key="Image" value="26" />
           <entry key="JAVA" value="15" />
           <entry key="XML" value="3" />
         </counts>
@@ -62,6 +65,44 @@
         </counts>
       </usages-collector>
     </session>
+    <session id="300490859">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="8" />
+          <entry key="project.open.time.1" value="2" />
+          <entry key="project.open.time.18" value="1" />
+          <entry key="project.open.time.2" value="1" />
+          <entry key="project.open.time.6" value="1" />
+          <entry key="project.open.time.7" value="3" />
+          <entry key="project.opened" value="8" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="feature" value="1" />
+          <entry key="java" value="1" />
+          <entry key="jpg" value="1" />
+          <entry key="png" value="6" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="Cucumber" value="1" />
+          <entry key="Image" value="7" />
+          <entry key="JAVA" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="java" value="9" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="JAVA" value="9" />
+        </counts>
+      </usages-collector>
+    </session>
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
@@ -75,28 +116,10 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/testDefs/AuthenticateTestSteps.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="271">
-              <caret line="51" selection-start-line="51" selection-end-line="51" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/test/resources/imageTest.feature">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="105">
-              <caret line="7" column="20" selection-start-line="7" selection-start-column="20" selection-end-line="7" selection-end-column="20" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/java/testDefs/ImageTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="2">
-              <caret line="29" column="41" selection-start-line="29" selection-start-column="41" selection-end-line="29" selection-end-column="41" />
+            <state relative-caret-position="705">
+              <caret line="47" selection-start-line="47" selection-end-line="47" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -105,29 +128,45 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/screenshots/Actual.png">
-          <provider selected="true" editor-type-id="images" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/screenshots/test.jpg">
           <provider selected="true" editor-type-id="images" />
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="jar://$MAVEN_REPOSITORY$/ru/yandex/qatools/ashot/ashot/1.5.2/ashot-1.5.2-sources.jar!/ru/yandex/qatools/ashot/comparison/ImageDiffer.java">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/test/java/testDefs/AuthenticateTestSteps.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="126">
-              <caret line="21" column="39" selection-start-line="21" selection-start-column="39" selection-end-line="21" selection-end-column="40" />
+            <state relative-caret-position="-281">
+              <caret line="2" column="7" lean-forward="true" selection-start-line="2" selection-start-column="7" selection-end-line="2" selection-end-column="7" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="jar://$MAVEN_REPOSITORY$/org/seleniumhq/selenium/selenium-remote-driver/3.14.0/selenium-remote-driver-3.14.0.jar!/org/openqa/selenium/remote/RemoteWebElement.class">
+        <entry file="file://$PROJECT_DIR$/src/test/resources/imageTest.feature">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="3990">
-              <caret line="357" column="184" selection-start-line="357" selection-start-column="110" selection-end-line="357" selection-end-column="184" />
+            <state relative-caret-position="105">
+              <caret line="7" column="35" selection-start-line="7" selection-start-column="35" selection-end-line="7" selection-end-column="35" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="jar://$MAVEN_REPOSITORY$/ru/yandex/qatools/ashot/ashot/1.5.4/ashot-1.5.4-sources.jar!/ru/yandex/qatools/ashot/comparison/PointsMarkupPolicy.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="135">
+              <caret line="14" column="13" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="jar://$MAVEN_REPOSITORY$/ru/yandex/qatools/ashot/ashot/1.5.4/ashot-1.5.4-sources.jar!/ru/yandex/qatools/ashot/comparison/ImageMarkupPolicy.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret column="43" selection-start-column="43" selection-end-column="43" />
             </state>
           </provider>
         </entry>
@@ -135,8 +174,17 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="347">
-              <caret line="86" column="21" selection-start-line="86" selection-start-column="21" selection-end-line="86" selection-end-column="21" />
+            <state relative-caret-position="1260">
+              <caret line="84" column="29" selection-start-line="84" selection-start-column="24" selection-end-line="84" selection-end-column="29" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="jar://$MAVEN_REPOSITORY$/ru/yandex/qatools/ashot/ashot/1.5.4/ashot-1.5.4-sources.jar!/ru/yandex/qatools/ashot/comparison/ImageDiffer.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="120">
+              <caret line="17" column="13" selection-start-line="17" selection-start-column="13" selection-end-line="17" selection-end-column="13" />
             </state>
           </provider>
         </entry>
@@ -231,8 +279,8 @@
     </navigator>
     <panes>
       <pane id="Scope" />
-      <pane id="PackagesPane" />
       <pane id="AndroidView" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -243,12 +291,30 @@
             <path>
               <item name="qaTest" type="b2602c69:ProjectViewProjectNode" />
               <item name="qaTest" type="462c0819:PsiDirectoryNode" />
+              <item name="drivers" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="qaTest" type="b2602c69:ProjectViewProjectNode" />
+              <item name="qaTest" type="462c0819:PsiDirectoryNode" />
               <item name="screenshots" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="qaTest" type="b2602c69:ProjectViewProjectNode" />
               <item name="qaTest" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="qaTest" type="b2602c69:ProjectViewProjectNode" />
+              <item name="qaTest" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="qaTest" type="b2602c69:ProjectViewProjectNode" />
+              <item name="qaTest" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="qaTest" type="b2602c69:ProjectViewProjectNode" />
@@ -278,36 +344,6 @@
               <item name="test" type="462c0819:PsiDirectoryNode" />
               <item name="resources" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="qaTest" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-            </path>
-            <path>
-              <item name="qaTest" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-              <item name="Maven: ru.yandex.qatools.ashot:ashot:1.5.4" type="70bed36:NamedLibraryElementNode" />
-            </path>
-            <path>
-              <item name="qaTest" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-              <item name="Maven: ru.yandex.qatools.ashot:ashot:1.5.4" type="70bed36:NamedLibraryElementNode" />
-              <item name="ashot-1.5.4.jar" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="qaTest" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-              <item name="Maven: ru.yandex.qatools.ashot:ashot:1.5.4" type="70bed36:NamedLibraryElementNode" />
-              <item name="ashot-1.5.4.jar" type="462c0819:PsiDirectoryNode" />
-              <item name="ashot" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="qaTest" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-              <item name="Maven: ru.yandex.qatools.ashot:ashot:1.5.4" type="70bed36:NamedLibraryElementNode" />
-              <item name="ashot-1.5.4.jar" type="462c0819:PsiDirectoryNode" />
-              <item name="ashot" type="462c0819:PsiDirectoryNode" />
-              <item name="util" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
@@ -315,8 +351,9 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1548606661683" />
-    <property name="project.structure.last.edited" value="SDKs" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1549347285114" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="configurable.group.editor" />
@@ -351,6 +388,24 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Feature: authenticate (1)" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
+      <option name="CUCUMBER_CORE_VERSION" value="2" />
+      <option name="FILE_PATH" value="$PROJECT_DIR$/src/test/resources/authenticate.feature" />
+      <option name="GLUE" value="testDefs" />
+      <option name="MAIN_CLASS_NAME" value="cucumber.api.cli.Main" />
+      <module name="qa-test" />
+      <option name="PROGRAM_PARAMETERS" value=" --plugin org.jetbrains.plugins.cucumber.java.run.CucumberJvm2SMFormatter --monochrome" />
+      <option name="SUGGESTED_NAME" value="Feature: authenticate" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cucumber.api.cli.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Feature: authenticate" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
       <option name="CUCUMBER_CORE_VERSION" value="2" />
       <option name="FILE_PATH" value="$PROJECT_DIR$/src/test/resources/authenticate.feature" />
@@ -359,6 +414,25 @@
       <module name="qaTest" />
       <option name="PROGRAM_PARAMETERS" value=" --plugin org.jetbrains.plugins.cucumber.java.run.CucumberJvm2SMFormatter --monochrome" />
       <option name="SUGGESTED_NAME" value="Feature: authenticate" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cucumber.api.cli.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Scenario: A scenario (1)" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
+      <option name="CUCUMBER_CORE_VERSION" value="2" />
+      <option name="FILE_PATH" value="$PROJECT_DIR$/src/test/resources/imageTest.feature" />
+      <option name="GLUE" value="testDefs" />
+      <option name="MAIN_CLASS_NAME" value="cucumber.api.cli.Main" />
+      <module name="qa-test" />
+      <option name="NAME_FILTER" value="^A scenario$" />
+      <option name="PROGRAM_PARAMETERS" value=" --plugin org.jetbrains.plugins.cucumber.java.run.CucumberJvm2SMFormatter --monochrome --name &quot;^A scenario$&quot;" />
+      <option name="SUGGESTED_NAME" value="Scenario: A scenario" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="cucumber.api.cli.*" />
@@ -407,15 +481,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="All in qaTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="qaTest" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="TEST_OBJECT" value="package" />
-      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration default="true" type="JUnit" factoryName="JUnit">
       <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
       <method v="2">
@@ -442,15 +507,17 @@
     <list>
       <item itemvalue="Cucumber java.Scenario: : Authentication test" />
       <item itemvalue="Cucumber java.Scenario: A scenario" />
-      <item itemvalue="JUnit.All in qaTest" />
       <item itemvalue="Cucumber java.Feature: authenticate" />
+      <item itemvalue="Cucumber java.Scenario: A scenario (1)" />
+      <item itemvalue="Cucumber java.Feature: authenticate (1)" />
     </list>
     <recent_temporary>
       <list>
         <item itemvalue="Cucumber java.Scenario: A scenario" />
+        <item itemvalue="Cucumber java.Scenario: A scenario (1)" />
+        <item itemvalue="Cucumber java.Feature: authenticate (1)" />
         <item itemvalue="Cucumber java.Scenario: : Authentication test" />
         <item itemvalue="Cucumber java.Feature: authenticate" />
-        <item itemvalue="JUnit.All in qaTest" />
       </list>
     </recent_temporary>
   </component>
@@ -468,27 +535,6 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="Scenario__A_scenario - 2019.01.26 at 23h 12m 51s.xml">
-      <configuration name="Scenario: A scenario" configurationId="CucumberJavaRunConfigurationType" />
-    </history-entry>
-    <history-entry file="Scenario__A_scenario - 2019.01.26 at 23h 16m 27s.xml">
-      <configuration name="Scenario: A scenario" configurationId="CucumberJavaRunConfigurationType" />
-    </history-entry>
-    <history-entry file="Scenario__A_scenario - 2019.01.26 at 23h 27m 01s.xml">
-      <configuration name="Scenario: A scenario" configurationId="CucumberJavaRunConfigurationType" />
-    </history-entry>
-    <history-entry file="Scenario__A_scenario - 2019.01.26 at 23h 30m 27s.xml">
-      <configuration name="Scenario: A scenario" configurationId="CucumberJavaRunConfigurationType" />
-    </history-entry>
-    <history-entry file="Scenario__A_scenario - 2019.01.26 at 23h 31m 07s.xml">
-      <configuration name="Scenario: A scenario" configurationId="CucumberJavaRunConfigurationType" />
-    </history-entry>
-    <history-entry file="Scenario__A_scenario - 2019.01.26 at 23h 31m 34s.xml">
-      <configuration name="Scenario: A scenario" configurationId="CucumberJavaRunConfigurationType" />
-    </history-entry>
-    <history-entry file="Scenario__A_scenario - 2019.01.26 at 23h 32m 42s.xml">
-      <configuration name="Scenario: A scenario" configurationId="CucumberJavaRunConfigurationType" />
-    </history-entry>
     <history-entry file="Scenario__A_scenario - 2019.01.26 at 23h 33m 13s.xml">
       <configuration name="Scenario: A scenario" configurationId="CucumberJavaRunConfigurationType" />
     </history-entry>
@@ -497,6 +543,27 @@
     </history-entry>
     <history-entry file="Scenario__A_scenario - 2019.01.27 at 18h 29m 58s.xml">
       <configuration name="Scenario: A scenario" configurationId="CucumberJavaRunConfigurationType" />
+    </history-entry>
+    <history-entry file="Scenario__A_scenario_(1) - 2019.01.28 at 09h 49m 01s.xml">
+      <configuration name="Scenario: A scenario (1)" configurationId="CucumberJavaRunConfigurationType" />
+    </history-entry>
+    <history-entry file="Scenario__A_scenario_(1) - 2019.01.28 at 09h 53m 43s.xml">
+      <configuration name="Scenario: A scenario (1)" configurationId="CucumberJavaRunConfigurationType" />
+    </history-entry>
+    <history-entry file="Scenario__A_scenario_(1) - 2019.01.28 at 09h 54m 07s.xml">
+      <configuration name="Scenario: A scenario (1)" configurationId="CucumberJavaRunConfigurationType" />
+    </history-entry>
+    <history-entry file="Scenario__A_scenario_(1) - 2019.01.28 at 10h 11m 08s.xml">
+      <configuration name="Scenario: A scenario (1)" configurationId="CucumberJavaRunConfigurationType" />
+    </history-entry>
+    <history-entry file="Feature__authenticate_(1) - 2019.01.28 at 10h 11m 29s.xml">
+      <configuration name="Feature: authenticate (1)" configurationId="CucumberJavaRunConfigurationType" />
+    </history-entry>
+    <history-entry file="Scenario__A_scenario_(1) - 2019.01.28 at 12h 07m 59s.xml">
+      <configuration name="Scenario: A scenario (1)" configurationId="CucumberJavaRunConfigurationType" />
+    </history-entry>
+    <history-entry file="Scenario__A_scenario_(1) - 2019.01.28 at 12h 09m 51s.xml">
+      <configuration name="Scenario: A scenario (1)" configurationId="CucumberJavaRunConfigurationType" />
     </history-entry>
   </component>
   <component name="TodoView">
@@ -512,7 +579,7 @@
     <frame x="65" y="43" width="1181" height="728" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.20895523" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24934153" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -522,7 +589,7 @@
       <window_info id="Favorites" order="7" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32861635" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.32861635" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.3128931" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39937106" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -530,7 +597,7 @@
       <window_info anchor="bottom" id="Terminal" order="7" weight="0.2028302" />
       <window_info anchor="bottom" id="DB Execution Console" order="8" />
       <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
-      <window_info active="true" anchor="bottom" id="Version Control" order="10" visible="true" weight="0.2389937" />
+      <window_info anchor="bottom" id="Version Control" order="10" weight="0.2389937" />
       <window_info anchor="bottom" id="Messages" order="11" weight="0.32861635" />
       <window_info anchor="right" id="Commander" order="0" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -609,13 +676,6 @@
     <entry file="file://$PROJECT_DIR$/screenshots/2019_01_26_13_02_26_976.png" />
     <entry file="file://$PROJECT_DIR$/screenshots/test1.png" />
     <entry file="file://$PROJECT_DIR$/screenshots/test.jpeg" />
-    <entry file="file://$PROJECT_DIR$/src/test/java/testDefs/AuthenticateTestSteps.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="271">
-          <caret line="51" selection-start-line="51" selection-end-line="51" />
-        </state>
-      </provider>
-    </entry>
     <entry file="jar://$MAVEN_REPOSITORY$/ru/yandex/qatools/ashot/ashot/1.5.2/ashot-1.5.2.jar!/ru/yandex/qatools/ashot/Screenshot.class">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="90">
@@ -679,13 +739,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="347">
-          <caret line="86" column="21" selection-start-line="86" selection-start-column="21" selection-end-line="86" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
     <entry file="jar://$MAVEN_REPOSITORY$/org/seleniumhq/selenium/selenium-remote-driver/3.14.0/selenium-remote-driver-3.14.0.jar!/org/openqa/selenium/remote/RemoteWebElement.class">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="3990">
@@ -709,25 +762,15 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/screenshots/Expected.png" />
-    <entry file="file://$PROJECT_DIR$/src/test/java/testDefs/ImageTest.java">
+    <entry file="file://$PROJECT_DIR$/screenshots/Actual.jpg" />
+    <entry file="jar://$MAVEN_REPOSITORY$/ru/yandex/qatools/ashot/ashot/1.5.4/ashot-1.5.4-sources.jar!/ru/yandex/qatools/ashot/comparison/ImageDiff.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2">
-          <caret line="29" column="41" selection-start-line="29" selection-start-column="41" selection-end-line="29" selection-end-column="41" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+        <state relative-caret-position="120">
+          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/screenshots/Actual.jpg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/screenshots/Actual.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/screenshots/test.jpg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
+    <entry file="file://$PROJECT_DIR$/screenshots/Actual.png" />
     <entry file="file://$PROJECT_DIR$/src/test/resources/authenticate.feature">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="345">
@@ -735,10 +778,61 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/screenshots/test.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/test/resources/imageTest.feature">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="105">
-          <caret line="7" column="20" selection-start-line="7" selection-start-column="20" selection-end-line="7" selection-end-column="20" />
+          <caret line="7" column="35" selection-start-line="7" selection-start-column="35" selection-end-line="7" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/ru/yandex/qatools/ashot/ashot/1.5.4/ashot-1.5.4-sources.jar!/ru/yandex/qatools/ashot/comparison/PointsMarkupPolicy.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="14" column="13" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/ru/yandex/qatools/ashot/ashot/1.5.4/ashot-1.5.4-sources.jar!/ru/yandex/qatools/ashot/comparison/ImageMarkupPolicy.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="43" selection-start-column="43" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1260">
+          <caret line="84" column="29" selection-start-line="84" selection-start-column="24" selection-end-line="84" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/ru/yandex/qatools/ashot/ashot/1.5.4/ashot-1.5.4-sources.jar!/ru/yandex/qatools/ashot/comparison/ImageDiffer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="17" column="13" selection-start-line="17" selection-start-column="13" selection-end-line="17" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/testDefs/ImageTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="705">
+          <caret line="47" selection-start-line="47" selection-end-line="47" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/testDefs/AuthenticateTestSteps.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-281">
+          <caret line="2" column="7" lean-forward="true" selection-start-line="2" selection-start-column="7" selection-end-line="2" selection-end-column="7" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -794,12 +888,11 @@
       </state>
       <state key="ModuleStructureConfigurable.UI">
         <settings>
-          <last-edited>qaTest</last-edited>
+          <last-edited>qa-test</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
                 <option value="0.2" />
-                <option value="0.6" />
               </list>
             </option>
           </splitter-proportions>
@@ -819,6 +912,7 @@
       </state>
       <state key="ProjectLibrariesConfigurable.UI">
         <settings>
+          <last-edited>Maven: com.assertthat:selenium-shutterbug:0.9</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>

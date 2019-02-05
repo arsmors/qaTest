@@ -22,7 +22,7 @@ public class ImageTest {
 
     @When("^I navigate to google homepage$")
     public void iNavigateToGoogleHomepage() throws Throwable {
-        System.setProperty("webdriver.chrome.driver", "/Users/arsensmorins/Desktop/QA2/chromedriver");
+        System.setProperty("webdriver.chrome.driver", "./drivers/chromedriver");
         driver = new ChromeDriver();
         driver.get("http://www.google.com");
 
@@ -45,7 +45,11 @@ public class ImageTest {
         ImageDiffer imgDiff = new ImageDiffer();
         ImageDiff diff = imgDiff.makeDiff(actualImage, expectedImage);
 
-        assertFalse("Images are not the same", diff.hasDiff());
+        float percent = 0.80f;
+        int imgSize = actualImage.getWidth() * actualImage.getHeight();
+        int proximity = Math.round(imgSize - (imgSize * percent));
+
+        assertFalse("Images are not the same", diff.withDiffSizeTrigger(proximity).hasDiff());
     }
 }
 
